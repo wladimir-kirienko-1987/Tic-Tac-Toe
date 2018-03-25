@@ -57,7 +57,7 @@ bool HelloWorld::init()
 	
 	__pLabel->setString("    Zero first");
 
-	auto sprite = Sprite::create("bg.png");
+	auto sprite = Sprite::create("bg2.png");
 	sprite->setPosition(640/2, 480/2);
 	this->addChild(sprite, 0);
 

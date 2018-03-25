@@ -1,4 +1,3 @@
-<h1>Игра крестики нолике на движке cocos2dx</h1>
-<p>
-Поддерживается только режим игрок против игрока. Использовалась версия движка cocos2dx 3.16.
-<br>
+# Tic-Tac-Toe cocos2d-x
+
+![Alt text](/img/ttt.png?raw=true "Converter")
